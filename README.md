@@ -1,128 +1,112 @@
 # gas-station-tycoon
 
-### **README (English Version)**
+# MidnightWorks Test Assignment
+
+## Hello, esteemed specialists from MidnightWorks!
+
+Unfortunately, one week was not enough to fully implement the game. However, I focused on the quality of the code and architecture, ensuring the project can be easily scaled and improved in the future.
+
+I understand that an unfinished game may be perceived as a significant drawback, but I want to highlight the well-thought-out structure and logic of the project. A lot of effort was invested into this, and I am ready to discuss my work in detail during a technical interview.
+
+---
+## 🔹 Project Features:
+
+- **Modular architecture** – the project is divided into independent modules (screens), each containing everything necessary for its functionality.
+- **Flexible scene management** – special attention was given to Scene Management, making testing and expanding the project easier.
+- **ModuleCreator** – a custom tool for quickly creating and integrating new modules into the project.
+- **Custom DIContainer implementation** – flexible dependency injection without third-party libraries.
+- **Optimized code** – structured and clear class hierarchy, allowing for easy feature expansion.
+
+---
+## 🔹 What I didn't manage to implement:
+
+- **Inventory mechanics** – successfully implemented in other projects, but didn't have time to integrate it here.
+- **Integration of NewInputSystem** – I use it in my projects, but couldn't complete its integration within the test assignment timeframe.
+- **Unity Localization** – planned for integration, but time constraints prevented it.
+
+My portfolio includes projects with full implementation of these technologies, and I am ready to demonstrate them during an interview.
+
+---
+## 📌 Conclusion
+
+Although I am presenting only a prototype of the game, the strong codebase reflects my skills and approach to development. I would be happy to discuss the project, its architecture, and any other questions in detail during a technical interview.
+
+Thank you for the opportunity to showcase my skills! I hope this project interests you and serves as a starting point for our future collaboration.
+
+**Best regards, Pavel**
 
 ---
 
-# Game Prototype for Test Task | MidnightWorks
+# MidnightWorks Test Assignment (Română)
 
-Hello, esteemed specialists at **MidnightWorks**!
+## Bună ziua, stimați specialiști de la MidnightWorks!
 
-Unfortunately, the one-week deadline was insufficient to deliver a fully realized game. This repository contains a **prototype** of my project, where I focused on **code quality and architecture**.
+Din păcate, o săptămână nu a fost suficientă pentru a implementa complet jocul. Cu toate acestea, m-am concentrat pe calitatea codului și arhitectura acestuia, ceea ce va permite scalarea și dezvoltarea ușoară a proiectului în viitor.
 
-I understand that an incomplete game might be seen as a significant shortcoming. However, I encourage you to pay attention to the carefully crafted structure and logic of the project. This work required a lot of effort, time, and energy, and I would be delighted to discuss it further during a **technical interview**.
+Înțeleg că un joc neterminat poate fi perceput ca un dezavantaj semnificativ, dar aș dori să evidențiez structura bine gândită și logica proiectului. S-a investit mult efort în acest aspect, iar eu sunt pregătit să discut în detaliu munca mea în cadrul unui interviu tehnic.
+
+---
+## 🔹 Caracteristici ale proiectului:
+
+- **Arhitectură modulară** – proiectul este împărțit în module independente (ecrane), fiecare conținând tot ce este necesar pentru funcționarea sa.
+- **Gestionare flexibilă a scenelor** – o atenție specială a fost acordată Scene Management, facilitând testarea și extinderea proiectului.
+- **ModuleCreator** – un instrument personalizat pentru crearea și integrarea rapidă a noilor module în proiect.
+- **Implementare personalizată DIContainer** – injectare flexibilă a dependențelor fără biblioteci terțe.
+- **Cod optimizat** – ierarhie clară și structurată a claselor, permițând extinderea ușoară a funcționalității.
+
+---
+## 🔹 Ce nu am reușit să implementez:
+
+- **Mecanica inventarului** – am implementat-o cu succes în alte proiecte, dar nu am avut timp să o integrez aici.
+- **Integrarea NewInputSystem** – o folosesc în proiectele mele, dar nu am reușit să finalizez integrarea în cadrul acestui test.
+- **Unity Localization** – era planificată pentru integrare, dar constrângerile de timp au împiedicat realizarea acestui lucru.
+
+Portofoliul meu include proiecte cu implementare completă a acestor tehnologii, și sunt pregătit să le prezint în timpul unui interviu.
+
+---
+## 📌 Concluzie
+
+Deși prezint doar un prototip al jocului, baza solidă de cod reflectă abilitățile și abordarea mea în dezvoltare. Aș fi bucuros să discut în detaliu proiectul, arhitectura acestuia și orice alte întrebări în cadrul unui interviu tehnic.
+
+Vă mulțumesc pentru oportunitatea de a-mi prezenta abilitățile! Sper că acest proiect vă va interesa și va reprezenta un punct de plecare pentru o colaborare viitoare.
+
+**Cu respect, Pavel**
 
 ---
 
-## Project Features
+# MidnightWorks Тестовое задание
 
-- **Modular Structure**:  
-  The project is divided into independent **modules/screens**, each containing everything needed for its functionality, including scenes.  
-  - **Scenes can be found in the folder** `Assets/Modules/...`.
-  - Each module is standalone, and the game can be launched from any scene of the base module.
+## Добрый день, уважаемые специалисты из MidnightWorks!
 
-- **Flexible Architecture**:  
-  The modular approach ensures easy project scalability, allowing new features to be added without disrupting the existing logic.
+К сожалению, одной недели оказалось недостаточно для полноценной реализации игры. Однако я сосредоточился на качестве кода и архитектуре, что позволит легко масштабировать и дорабатывать проект в будущем.
+
+Я понимаю, что незавершённая игра может быть воспринята как серьёзный недостаток, но хочу обратить ваше внимание на проработанную структуру и логику проекта. На это было вложено много усилий, и я готов подробно обсудить свою работу на техническом собеседовании.
 
 ---
+## 🔹 Особенности проекта:
 
-## Notes
-
-- While the prototype is incomplete, the **strong codebase** reflects my skills and approach to development.  
-- Everything I didn't manage to implement here has already been realized multiple times in the released games from my **portfolio**.  
-- I am **ready to discuss** the project and its architecture during an interview, proving that I am a developer capable of working efficiently on your team.
-
----
-
-Thank you for the opportunity to showcase my skills. I hope this project piques your interest and becomes the starting point for our further discussions.
-
-Sincerely,  
-*Pavel*  
+- **Модульная архитектура** – проект разделён на независимые модули (экраны), каждый из которых содержит всё необходимое для своего функционирования.
+- **Гибкое управление сценами** – особое внимание уделено Scene Management, что упрощает тестирование и расширение проекта.
+- **ModuleCreator** – кастомный инструмент для быстрого создания и интеграции новых модулей в проект.
+- **Кастомная реализация DIContainer** – гибкое внедрение зависимостей без сторонних библиотек.
+- **Оптимизированный код** – структурированная и понятная иерархия классов, позволяющая легко дорабатывать функционал.
 
 ---
+## 🔹 Что не успел реализовать:
+
+- **Механика инвентаря** – ранее успешно реализовывал в других проектах, но в данном случае не успел механически её внедрить.
+- **Интеграция NewInputSystem** – использую в своих проектах, но в рамках тестового задания не завершил интеграцию.
+- **Unity Localization** – планировалась к внедрению, но не хватило времени.
+
+В моём портфолио представлены проекты с полным использованием вышеуказанных технологий, и я готов продемонстрировать их на собеседовании.
 
 ---
+## 📌 Заключение
 
-### **README (Русская версия)**
+Несмотря на то, что я предоставляю вам прототип игры, мощная кодовая база отражает мои навыки и подход к разработке. Буду рад детально обсудить проект, его архитектуру и любые другие вопросы на техническом собеседовании.
 
----
+Спасибо за возможность показать свои навыки! Надеюсь, этот проект заинтересует вас и станет началом нашего сотрудничества.
 
-# Прототип игры для тестового задания | MidnightWorks
+**С уважением, Павел**
 
-Приветствую, уважаемые специалисты из **MidnightWorks**!
 
-К сожалению, срока в одну неделю оказалось недостаточно для полноценной реализации игры. В этом репозитории представлен **прототип** моего проекта, в котором я постарался сделать упор на **качество кода и архитектуру**. 
-
-Я осознаю, что незавершённая игра может восприниматься как серьёзный недочёт, однако хочу обратить ваше внимание на проработанную структуру и логику проекта. На это было потрачено много сил, времени и нервов, и я был бы рад подробно обсудить свою работу на **техническом собеседовании**.
-
----
-
-## Особенности проекта
-
-- **Модульная структура**:  
-  Проект разделён на независимые **модули-экраны**, каждый из которых содержит всё необходимое для своего функционирования, включая сцены.  
-  - **Сцены проекта находятся в папке** `Assets/Modules/...`.  
-  - Каждый модуль независим, и игру можно запускать с любой сцены базового модуля.
-
-- **Гибкость архитектуры**:  
-  Модульный подход позволяет легко расширять проект, добавляя новые функциональности без нарушения текущей логики.
-
----
-
-## Примечания
-
-- Несмотря на то, что прототип игры не завершён, **мощная кодовая база** проекта отражает мои навыки и подход к разработке.  
-- Всё, что я не успел реализовать здесь, я уже не раз воплощал в жизнь в выпущенных играх из моего **портфолио**.  
-- **Готов обсудить** проект и архитектуру на собеседовании, чтобы показать, что я — разработчик, который может эффективно работать в вашей команде.
-
----
-
-Большое спасибо за возможность показать свои навыки. Я надеюсь, что этот проект заинтересует вас и станет отправной точкой для нашего дальнейшего общения.
-
-С уважением,  
-*Павел*  
-
----
-
----
-
-### **README (Romanian Version)**
-
----
-
-# Prototipul Jocului pentru Sarcina de Testare | MidnightWorks
-
-Salutări, stimați specialiști de la **MidnightWorks**!
-
-Din păcate, termenul de o săptămână nu a fost suficient pentru a realiza un joc complet. În acest depozit este prezentat un **prototip** al proiectului meu, unde am pus accent pe **calitatea codului și arhitectura**.
-
-Înțeleg că un joc neterminat poate fi perceput ca un defect semnificativ. Totuși, vă încurajez să acordați atenție structurii și logicii bine concepute ale proiectului. Această lucrare a necesitat mult efort, timp și nervi, și aș fi încântat să discut mai detaliat despre ea în cadrul unui **interviu tehnic**.
-
----
-
-## Caracteristicile Proiectului
-
-- **Structură Modulară**:  
-  Proiectul este împărțit în **module/ecrane independente**, fiecare conținând toate elementele necesare pentru funcționare, inclusiv scene.  
-  - **Scenele proiectului se află în folderul** `Assets/Modules/...`.  
-  - Fiecare modul este independent, iar jocul poate fi pornit de la orice scenă a modulului de bază.
-
-- **Arhitectură Flexibilă**:  
-  Abordarea modulară permite extinderea ușoară a proiectului prin adăugarea de funcționalități noi, fără a afecta logica existentă.
-
----
-
-## Observații
-
-- Deși prototipul nu este finalizat, **baza solidă de cod** reflectă abilitățile și abordarea mea în dezvoltare.  
-- Tot ceea ce nu am reușit să implementez în acest proiect a fost deja realizat în jocurile lansate din **portofoliul meu**.  
-- Sunt **pregătit să discut** proiectul și arhitectura sa în cadrul unui interviu, pentru a demonstra că sunt un dezvoltator capabil să lucreze eficient în echipa voastră.
-
----
-
-Vă mulțumesc pentru oportunitatea de a-mi prezenta abilitățile. Sper că acest proiect vă va trezi interesul și va deveni punctul de plecare pentru o discuție viitoare.
-
-Cu respect,  
-*Pavel*  
-
----
