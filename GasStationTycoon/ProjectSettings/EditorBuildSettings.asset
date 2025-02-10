@@ -6,11 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Modules/Base/GameScreen/Scene/Game.unity
-    guid: 85dce22eeeee31d489256dca08c8b6d4
-  - enabled: 1
     path: Assets/Modules/Base/MainMenuScreen/Scene/MainMenu.unity
     guid: 3589fd44053335b4397d9d59e026d331
+  - enabled: 1
+    path: Assets/Modules/Base/GameScreen/Scene/Game.unity
+    guid: 85dce22eeeee31d489256dca08c8b6d4
   - enabled: 1
     path: Assets/Modules/Additional/PopupsManager/Scenes/PopupsManager.unity
     guid: 0fd8d7b6ee230064aa06ea08bcb21331
