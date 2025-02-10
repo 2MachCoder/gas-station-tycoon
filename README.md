@@ -16,6 +16,8 @@ I understand that an unfinished game may be perceived as a significant drawback,
 - **ModuleCreator** – a custom tool for quickly creating and integrating new modules into the project.
 - **Custom DIContainer implementation** – flexible dependency injection without third-party libraries.
 - **Optimized code** – structured and clear class hierarchy, allowing for easy feature expansion.
+- **Scalable save system foundation** – a strong base for an efficient, expandable saving system.
+- **Popup system foundation** – a robust popup system was planned, but due to time constraints, it wasn't fully implemented.
 
 ---
 ## 🔹 What I didn't manage to implement:
@@ -53,6 +55,8 @@ Din păcate, o săptămână nu a fost suficientă pentru a implementa complet j
 - **ModuleCreator** – un instrument personalizat pentru crearea și integrarea rapidă a noilor module în proiect.
 - **Implementare personalizată DIContainer** – injectare flexibilă a dependențelor fără biblioteci terțe.
 - **Cod optimizat** – ierarhie clară și structurată a claselor, permițând extinderea ușoară a funcționalității.
+- **Fundament pentru un sistem de salvare scalabil** – bază solidă pentru un sistem de salvare eficient și extensibil.
+- **Fundament pentru sistemul de popup-uri** – un sistem de popup robust a fost planificat, dar din lipsă de timp nu a fost implementat complet.
 
 ---
 ## 🔹 Ce nu am reușit să implementez:
@@ -90,7 +94,8 @@ Vă mulțumesc pentru oportunitatea de a-mi prezenta abilitățile! Sper că ace
 - **ModuleCreator** – кастомный инструмент для быстрого создания и интеграции новых модулей в проект.
 - **Кастомная реализация DIContainer** – гибкое внедрение зависимостей без сторонних библиотек.
 - **Оптимизированный код** – структурированная и понятная иерархия классов, позволяющая легко дорабатывать функционал.
-
+- **Основа для масштабируемой системы сохранений** – заложен фундамент для эффективного и расширяемого механизма сохранений.
+- **Система попапов** – отличная система попапов была запланирована, но из-за нехватки времени не успел её полностью реализовать.
 ---
 ## 🔹 Что не успел реализовать:
 
@@ -108,5 +113,4 @@ Vă mulțumesc pentru oportunitatea de a-mi prezenta abilitățile! Sper că ace
 Спасибо за возможность показать свои навыки! Надеюсь, этот проект заинтересует вас и станет началом нашего сотрудничества.
 
 **С уважением, Павел**
-
 
